@@ -1,2 +1,2 @@
 ***Illustration:-***
-The Banking System connects with the ODBC driver to create, delete, modify, and present the account details with financial data transfers stored in the Database Microsoft Access. The system can display the data of an individual or the entire system in PDF format.
+The system is built with Java Swing components such as JFrame, JPanel, JTree, JTable, JDialog, JLabel, JTextField, etc. The system has 3 sections: Account, Transaction, and Display, each with a JDialog window in 8 separate packages to create, delete, modify, transfer, and present account details stored in the Microsoft Access database. The Java program is linked to a Microsoft Access (.mdb/.accdb) database using JDBC and an ODBC driver.
