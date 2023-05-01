@@ -7,7 +7,7 @@ window.
 
 # Let's have a look at the images/screenshots below to learn more about:
 ## 1. Initial window:
-* The initial window of our system contains the main saving tab, which has three sub-tabs: Accounts, Transaction, and Display. The following code defines how to achieve a proper JTree.
+* The initial window of our system contains the main saving tab, which has three sub-tabs: Accounts, Transaction, and Display. The following code defines how to achieve a proper link between DefaultMutableTreeNodes.
  ```
     top=new DefaultMutableTreeNode("Saving");
 		acc=new DefaultMutableTreeNode("Account");
